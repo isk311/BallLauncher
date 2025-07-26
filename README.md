@@ -7,6 +7,7 @@ I will primarily be using Github to upload changes that will be made to the firm
 Initial design:
 -
 1) STM NUCLEO-F411RE Dev Board
-2) RS-775 BDC Motors
-3) NEMA 17 Stepper Motor
-4) Design H-Bridge Driver using KiCAD
+2) ESP32 for Bluetooth Communication to App
+3) RS-775 BDC Motors
+4) NEMA 17 Stepper Motor
+5) Design H-Bridge Driver using KiCAD
